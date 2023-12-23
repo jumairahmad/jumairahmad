@@ -325,22 +325,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         width="60"
     /></a>
     
-    <a href="https://www.linkedin.com/in/jumair-ahmad" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="jumairahmad"
-        height="45"
-        width="60"
-    /></a>
-    <a href="https://www.facebook.com/jumair.ahmad" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-        alt="jumairahmad"
-        height="45"
-        width="60"
-    /></a>
+
   </p>
   
 
