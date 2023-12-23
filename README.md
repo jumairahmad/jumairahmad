@@ -289,7 +289,11 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 
 
 <a href="https://www.upwork.com/freelancers/~013b0549abedc752fa" target="_blank">
-  <img src="https://github.com/jumairahmad/jumairahmad/blob/main/upwork.JPG" alt="Upwork Profile" width="300"/>
+  <img 
+    src="https://github.com/jumairahmad/jumairahmad/blob/main/upwork.JPG" 
+    alt="Upwork Profile" 
+    style="width: 80px; height: 80px; object-fit: none; clip-path: inset(163px 163px 163px 163px);"
+    />
 </a>
 
   
