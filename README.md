@@ -288,6 +288,9 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
   </a>
 
 
+<a href="https://www.upwork.com/freelancers/~013b0549abedc752fa" target="_blank">
+  <img src="https://path/to/your/image.jpg" alt="Upwork Profile" width="300"/>
+</a>
 
   
 
