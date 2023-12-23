@@ -315,18 +315,7 @@ My journey as a developer is constantly evolving, and here are some of my goals:
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
 
-<p align="left">
-    <a href="https://wa.link/5x48ip" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-        alt="vacaramin"
-        height="45"
-        width="60"
-    /></a>
-    
 
-  </p>
   
 
 
