@@ -281,28 +281,16 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
   </a>
   <a href="https://web.cronysoft.com/" target="_blank">
     <img
-      src="https://images.app.goo.gl/dy7QQZDhnjRzXeWRA"
+      src="[https://images.app.goo.gl/dy7QQZDhnjRzXeWRA](https://www.google.com/search?q=cronysoft+images&client=firefox-b-d&sca_esv=593217386&tbm=isch&sxsrf=AM9HkKmWAulXiJ5IPVqO9tkFaW-Yc5EpKQ:1703315723935&source=lnms&sa=X&ved=2ahUKEwiij6nFgaWDAxVONewKHbRFAKUQ_AUoAXoECAEQAw&biw=1536&bih=739&dpr=1.25#imgrc=iSbid2ReWiVUKM&imgdii=S_yHitB_TWlQYM)"
       alt="CronySoft"
       style="width: 80px; height: 80px; object-fit: none; clip-path: inset(163px 163px 163px 163px);"
     />
   </a>
 
 
-  <a href="https://proailab.com" target="_blank" >
-    <img
-      src="https://proailab.com/wp-content/uploads/2023/02/proailab-light-e1677569914511.png"
-      alt="CronySoft"
-      height="80"
-    />
-  </a>
+
   
-  <a href="https://proailab.com" target="_blank" >
-    <img
-      src="https://avatars.githubusercontent.com/u/112457542?s=200&v=4"
-      alt="Kluff"
-      height="80"
-    />
-  </a>
+
   </p>
 I have gained valuable experience working on various projects, and here are a few highlights:
 
