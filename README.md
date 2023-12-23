@@ -281,8 +281,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
   </a>
   <a href="https://web.cronysoft.com/" target="_blank">
     <img
-      src="[https://images.app.goo.gl/dy7QQZDhnjRzXeWRA](https://www.google.com/search?q=cronysoft+images&client=firefox-b-d&sca_esv=593217386&tbm=isch&sxsrf=AM9HkKmWAulXiJ5IPVqO9tkFaW-Yc5EpKQ:1703315723935&source=lnms&sa=X&ved=2ahUKEwiij6nFgaWDAxVONewKHbRFAKUQ_AUoAXoECAEQAw&biw=1536&bih=739&dpr=1.25#imgrc=iSbid2ReWiVUKM&imgdii=S_yHitB_TWlQYM)"
-      alt="CronySoft"
+      src="https://images.app.goo.gl/W4Ky9MEzrbVvqcwd8"
       style="width: 80px; height: 80px; object-fit: none; clip-path: inset(163px 163px 163px 163px);"
     />
   </a>
