@@ -314,6 +314,10 @@ My journey as a developer is constantly evolving, and here are some of my goals:
 ## Let's Connect 🤝
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
+## Contact Information
+
+- **Email:** [jumairahmad@gmail.com](mailto:jumairahmad@gmail.com)
+- **Instagram:** [@jumairahmad](https://www.instagram.com/wandering_hunzai?igsh=YXh5Z2I5cHpybGdo)
 
 
   
