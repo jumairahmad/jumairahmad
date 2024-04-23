@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm Jumair Ahmad</h1>
 
-## Aspiring Golang Backend Developer | Flutter | Full Stack Enthusiast | Cutting-Edge Technology Explorer
+## Aspiring Golang Backend Developer | Flutter |Flutter Flow | Full Stack Enthusiast | WordPress | Cutting-Edge Technology Explorer
 
 Welcome to my GitHub profile! I'm a passionate full stack developer with a keen interest in Golang and the Gin framework. I'm constantly exploring cutting-edge technologies to create efficient solutions and deliver high-quality code.
 
@@ -255,7 +255,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
   </a>
 </p>
 
-- **Languages:** Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript, JavaScript
+- **Languages:** Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript, JavaScript, CSS, HTML
 - **Tools:** gRPC, RestAPI, Websockets, GraphQL, Docker, Q8S, WebRTC
 - **Backend:** Golang, Gin Framework, Node.js, Express
 - **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap
